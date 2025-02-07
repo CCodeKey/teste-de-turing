@@ -1,6 +1,6 @@
 
 # Teste de Turing
-Esse "teste de turing" foi um projeto utilizado no mestrado do meu ex professor de filosofia, onde consisite na interação de três pessoas, com o objetivos da pessoa A tentar descobrir se a pessoa B ou C são humanas, através de perguntas e respostas.
+Esse "teste de turing" foi um projeto utilizado no mestrado do meu ex professor de filosofia, onde consisite na interação de três pessoas, com o objetivo da pessoa A tentar descobrir se a pessoa B ou C são humanas, através de perguntas e respostas.
 
 
 ## Autores
